@@ -1,6 +1,5 @@
 ### Olá! Eu sou Italo Diego
 
-- 🌱 Estudante na plataforma Digital Inovation One
 - 👨‍🎓 Cursando análise e desenvolvimento de sistemas
 
 <div>
