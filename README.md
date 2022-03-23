@@ -1,6 +1,5 @@
 ### Olá! Eu sou Italo Diego
 
-- 👨‍🎓 Cursando análise e desenvolvimento de sistemas
 
 <div>
     <a href="https://github.com/italodiiego">
